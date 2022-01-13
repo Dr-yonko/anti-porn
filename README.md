@@ -12,5 +12,5 @@ You may want to modify and add whatever you want to the file '/etc/hosts' before
  ```
   ./anti-porn.sh
   ```
-# 
+# Well I hope this helps you a little against yourself 
     
