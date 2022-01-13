@@ -8,6 +8,7 @@ You may want to modify and add whatever you want to the file '/etc/hosts' before
     ```
     git clone https://github.com/Salfors/anti-porn.git && cd anti-porn && chmod a+x anti-porn 
     ```
+    
     ```
     ./anti-porn
     ```
