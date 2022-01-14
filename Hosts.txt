@@ -1,4 +1,3 @@
-127.0.0.1       freeones.com
 127.0.0.1       www.1337x.to
 127.0.0.1       www.18exgfs.com
 127.0.0.1       www.18exgfs.com
@@ -46,6 +45,7 @@
 127.0.0.1       www.akuralive.com
 127.0.0.1       www.allgravure.com
 127.0.0.1       www.alljapanesepass.com
+127.0.0.1       www.allpornsites.net
 127.0.0.1       www.allpornsites.net
 127.0.0.1       www.allpornsites.net
 127.0.0.1       www.alohatube.com
@@ -292,6 +292,7 @@
 127.0.0.1       www.freeadultcomix.com
 127.0.0.1       www.freechatnow.com
 127.0.0.1       www.freeomovie.to
+127.0.0.1       www.freeones.com
 127.0.0.1       www.freeones.com
 127.0.0.1       www.freesexyindians.com
 127.0.0.1       www.freexcafe.com
@@ -849,6 +850,7 @@
 127.0.0.1       www.thelittleslush.com
 127.0.0.1       www.thepiratebay.org
 127.0.0.1       www.theporndude.com
+127.0.0.1       www.theporndude.com
 127.0.0.1       www.thethotspot.com
 127.0.0.1       www.thisav.com
 127.0.0.1       www.thothub.to
@@ -867,6 +869,7 @@
 127.0.0.1       www.toonpass.com
 127.0.0.1       www.top.stasyq.com
 127.0.0.1       www.topfreepornvideos.com
+127.0.0.1       www.toppornsites.com
 127.0.0.1       www.tour1.vivid.com
 127.0.0.1       www.trickyagent.com
 127.0.0.1       www.trueamateurs.com
